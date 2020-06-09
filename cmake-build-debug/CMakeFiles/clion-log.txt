@@ -1,0 +1,15 @@
+/opt/JetBrains/clion/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/loki/Projects/flirone-v4l2
+-- Configuring done
+CMake Error: Cannot open file for write: /home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/flirone_stock.dir/build.make.tmp
+CMake Error: : System Error: Permission denied
+CMake Error: Cannot open file for write: /home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/flirone_stock.dir/flags.make.tmp
+CMake Error: : System Error: Permission denied
+CMake Error: Cannot open file for write: /home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/flirone_stock.dir/link.txt.tmp
+CMake Error: : System Error: Permission denied
+CMake Error: Could not create /home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/flirone_stock.dir/cmake_clean.cmake
+CMake Error: Cannot open file for write: /home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/flirone_stock.dir/DependInfo.cmake.tmp
+CMake Error: : System Error: Permission denied
+-- Generating done
+CMake Error: Cannot open file for write: /home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/flirone_stock.dir/progress.make.tmp
+CMake Error: : System Error: Permission denied
+CMake Generate step failed.  Build files cannot be regenerated correctly.

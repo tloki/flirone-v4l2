@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/flirone_stock.dir/src/flirone_stock.c.o  -o flirone_stock  -lusb-1.0 -lusb -lm 

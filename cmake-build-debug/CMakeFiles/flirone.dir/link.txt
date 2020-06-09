@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/flirone.dir/src/flirone.c.o  -o flirone  -lusb-1.0 -lusb -lm 

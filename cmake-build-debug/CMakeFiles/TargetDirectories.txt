@@ -1,0 +1,4 @@
+/home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/flirone_stock.dir
+/home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/loki/Projects/flirone-v4l2/cmake-build-debug/CMakeFiles/flirone.dir
